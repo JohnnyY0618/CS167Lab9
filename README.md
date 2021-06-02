@@ -12,7 +12,7 @@
 
 ## Lab Questions
 (Q1) Does the result of part III conform to our initial expectations? Why or why not? <bar/>
-* Yes, we have 24 data outputs, each of represent number of tweet in each hour of day that tweet has keyword "coffee". (24 hours)
+* Yes, we have 24 data outputs, each of represent number of tweets in each hour of day that tweet has keyword "coffee". (24 hours period e.g.: 1AM-2AM,2AM-3AM,etc)
 
 (Q2) Return the above code for the entire dataset `tweets.csv` and include the result in your README file. <bar/>
 ```
@@ -28,6 +28,11 @@ Number of timezones is 120
 ```
 492, 1075, 2243, 3146, 3592, 3261, 2848, 2349, 2121, 1959, 1686, 1483, 1266, 1209, 1220, 1053, 1016, 948, 825, 796, 706, 552, 369, 359
 ```
+
+(Q5) What is the third keyword that you chose?
+* The key word I chose is `window`.
+
+
 (S1) `counties_donut.png` <bar/>
 
 ![image](counties_donut.png)
